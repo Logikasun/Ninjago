@@ -1,20 +1,19 @@
 body{
-  font-family: sans-serif;
-  background-color: #FF7300;
+    font-family: sans-serif;
+    background-color: #FF7300;
+    padding: 20px;
 }
 
 h1 {
     text-align: center;
-    
-
 }
 
 p{
- background-color: red;
- border-radius:10px ;
- font-size: 20px;
- margin-bottom: 10px;
- padding: 5px;
+    background-color: red;
+    border-radius:10px ;
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding: 5px;
 }
 
 h2{
@@ -28,10 +27,16 @@ h3{
     text-align: center;
     color: #FFEE00;
 }
+
 h4{
     text-align: center;
 }
 
 a{
-color: #F5E60F;    
+    color: #F5E60F;  
+    padding: 10px;
 }    
+
+nav{
+    text-align: center;
+}
